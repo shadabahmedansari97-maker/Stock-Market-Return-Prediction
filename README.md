@@ -9,13 +9,27 @@ Gradient Boosting
 Ensemble (average of all three)
 Dataset
 Kaggle: Stock Market Dataset (NASDAQ) — daily OHLCV data ending April 2020
-
 Results (Test Period: Jan-Mar 2020, COVID Crash)
-Elastic Net — MAE: 0.0292, RMSE: 0.0420, Sign Accuracy: 43.5%
-Random Forest — MAE: 0.0295, RMSE: 0.0433, Sign Accuracy: 54.8%
-Gradient Boosting — MAE: 0.0291, RMSE: 0.0428, Sign Accuracy: 50.0%
-Ensemble — MAE: 0.0290, RMSE: 0.0423, Sign Accuracy: 53.2%
-
+Model
+MAE
+RMSE
+Sign Accuracy
+Elastic Net
+0.0292
+0.0420
+43.5%
+Random Forest
+0.0295
+0.0433
+54.8%
+Gradient Boosting
+0.0291
+0.0428
+50.0%
+Ensemble
+0.0290
+0.0423
+53.2%
 Tech Stack
 Python, scikit-learn, pandas, numpy
 Note
